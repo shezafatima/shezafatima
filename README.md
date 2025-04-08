@@ -43,10 +43,7 @@ Python • GitHub Projects • Canva • AI Prompting
 
 🔥 GitHub Highlights
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shezafatima&show_icons=true&theme=transparent&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shezafatima&theme=transparent&hide_border=true" width="48%"/> </p>
-📈 Contribution Graph
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shezafatima&bg_color=transparent&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true" />
-</p>
+
 
 
 🧠 Currently Learning
