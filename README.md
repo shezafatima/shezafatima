@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://github.com/your_username/your_username/raw/main/banner.gif" alt="Welcome Banner" />
+  <img src="https://github.com/shezafatima/shezafatima/raw/main/banner.gif" alt="Welcome Banner" />
 </p>
 
 <h1 align="center">Hey there, I'm a Creative Technophile 👋</h1>
@@ -18,7 +18,7 @@
 ### 🌟 About Me
 
 - 💻 Frontend Developer with modern UI/UX flair  
-- 🎯 Digital Marketing graduate & SEO-savvy  
+- 🎯 Digital Marketer 
 - 🎨 Graphic design expert with Canva creativity  
 - 🐍 Currently learning Python — next stop: Agentic AI  
 - 🚀 Dreaming, designing & developing one step at a time
@@ -35,7 +35,44 @@ HTML • CSS • JavaScript • TypeScript • Python
 Next.js • Streamlit • Sanity.io
 
 🎨 Tools:
-Canva • GitHub • AI Image Gen • Digital Marketing
+Canva • GitHub • AI Image Gen
 
 🚀 Currently Using:
 Python • GitHub Projects • Canva • AI Prompting
+```
+
+🔥 GitHub Highlights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shezafatima&show_icons=true&theme=transparent&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shezafatima&theme=transparent&hide_border=true" width="48%"/> </p>
+📈 Contribution Graph
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shezafatima&bg_color=transparent&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true" />
+</p>
+
+
+🧠 Currently Learning
+📘 Python (Basics → OOP)
+
+🤖 Agentic AI (Next)
+
+🌐 GitHub Projects, Collab & Automation
+
+🧑‍🎨 Canva + AI for branding & creative assets
+
+🎯 My Vision
+"Blend tech and art. Code with style. Market with heart. Always evolve."
+
+📬 Let’s Connect
+<p align="left"> <a href="mailto:s2636309@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sheza-fatima-78894830b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+⭐ If you vibe with my work, smash that Follow button for more creative code & digital magic!
+
+
+---
+
+
+
+
+
+
+
+
+
